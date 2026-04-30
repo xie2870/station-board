@@ -1,4 +1,3 @@
-```markdown
 # Metro Digital Sign System - User Manual
 
 ## 📋 Table of Contents
@@ -361,4 +360,3 @@ Created for metro/signage applications. Uses only Python standard library - no t
 ---
 
 **Thank you for using Metro Digital Sign System!** 🚇
-```
