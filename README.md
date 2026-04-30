@@ -1,5 +1,5 @@
 # Metro Digital Sign System - User Manual
-
+[download now](https://github.com/xie2870/station-board/archive/refs/heads/main.zip)!
 ## 📋 Table of Contents
 1. [Overview](#overview)
 2. [Installation](#installation)
@@ -359,4 +359,4 @@ Created for metro/signage applications. Uses only Python standard library - no t
 
 ---
 
-**Thank you for using Metro Digital Sign System!** 🚇
+**Thank you for using Metro Digital Sign System!Hoping you to give us a star!** 🚇
